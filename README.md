@@ -23,5 +23,5 @@
 3. **YaDisk** - работа с облачным сервисом (Яндекс Диск)
 4. **FileManage** - Создание и удаление файлов
 
-### 1. Клонирование репозитория
+### Клонирование репозитория
 git clone [https://github.com/SmailDoc52/ip-detector.git](https://github.com/SmailDoc52/ip-detector.git)
