@@ -21,7 +21,7 @@
 1. **Ipify** - получение IP.
 2. **IpInfo** - получение данных по IP
 3. **YaDisk** - работа с облачным сервисом (Яндекс Диск)
-4. **FileManage** - Создание и удаление файлов
+4. **FileManager** - Создание и удаление файлов
 
 ### Клонирование репозитория
 git clone [https://github.com/SmailDoc52/ip-detector.git](https://github.com/SmailDoc52/ip-detector.git)
